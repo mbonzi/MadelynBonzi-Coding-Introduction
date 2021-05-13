@@ -4,7 +4,6 @@
   <head>
     <meta charset="UTF-8">
     <link href="style.css" rel="stylesheet" type="text/css">
-    <title></title>
   </head>
   <body>
     <nav>
@@ -40,13 +39,16 @@
         This degree allowed my to transfer to California Polytechnic University in San Luis Obispo, California.
         After two years of working full-time and attending school full-time, I obtained a Bachelor of Science degree in Kinesiology.
         <br>
+        <br>
         This degree propelled me towards my career in healthcare.
         Since graduating, I have worked at an orthopedic surgery clinic which utilizes my knowledge from school, personal training and experience from working at a physical therapy clinic.
         This career has increased my ability to lead a staff, work within a team environment, multitask, and maintain a clear thought-process while under pressure.
         What I did not expect to learn is that what I truly excelled at and enjoyed was organizing, editing, and entering data into our electronic medical record (EMR) systems.
         This part of the job is often described as <em>tedious but necessary</em>; however is what allowed me to finally make an informed decision on the future of my career.
         <br>
+        <br>
         <strong> I am very excited for my future in program development and coding!!</strong>
+        <br>
       </p>
       <br>
     </div>
@@ -79,5 +81,10 @@
       </form>
     </div>
     <br>
+    <details>
+<summary>Example</summary>
+<ul><li>This dropdown contains</li>
+<li>a list!</li></ul>
+</details>
   </body>
 </html>
