@@ -105,11 +105,13 @@
     </div>
 --> 
     <br>
-     <div class="rel-path-foot">
-      <ul>
-        <li><a href="top">Navigate to Top:</a></li>
-      </ul>
-     </div>
+     <nav>
+       <div class="rel-path-foot">
+         <ul>
+          <li><a href="#top">Navigate to Top:</a></li>
+        </ul>
+      </div>
+    </nav>
     <br>
   </body>
 </html>
