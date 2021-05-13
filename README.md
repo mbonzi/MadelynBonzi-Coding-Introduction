@@ -8,7 +8,7 @@
   <body>
     <nav>
     <div class="main-heading">
-      <h1>Madelyn Bonzi's First Practice for HTML and CSS Coding</h1>
+      <h1 id="top">Madelyn Bonzi's First Practice for HTML and CSS Coding</h1>
     </div>
     <div class="rel-path-head">
       <ul>
@@ -104,6 +104,12 @@
       </form>
     </div>
 --> 
+    <br>
+     <div class="rel-path-foot">
+      <ul>
+        <li><a href="top">Navigate to Top:</a></li>
+      </ul>
+     </div>
     <br>
   </body>
 </html>
