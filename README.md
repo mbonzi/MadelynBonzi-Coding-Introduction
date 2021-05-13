@@ -59,7 +59,7 @@
       <form class="dropdown-list" action="index.html" method="post">
        <details>
         <strong><summary> Coding & Programming Courses and Certificates: </summary></strong>
-          <ul><li>Current Knowledge</li>
+          <ul>
             <li>Introduction to HTML</li>
             <li>Introduction to CSS</li>
             <li>Intermediate CSS </li>
@@ -68,7 +68,7 @@
        </details>
        <details>
          <strong><summary> In Progress Coding and Programming Tools: </summary></strong>
-           <ul><li>In Progress</li>
+           <ul>
               <li>Intermediate HTML</li>
               <li>Intermediate to Advanced CSS</li>
               <li>ATOM</li>
@@ -77,7 +77,7 @@
         </details>
         <details>
          <strong><summary> Future Coding and Programming Tools/Certificates: </summary></strong>
-           <ul><li>Up Next</li>
+           <ul>
               <li>Advanced HTML</li>
               <li>Advanced CSS</li>
               <li>Javascript</li>
@@ -105,6 +105,5 @@
     </div>
 --> 
     <br>
-    <details>
   </body>
 </html>
