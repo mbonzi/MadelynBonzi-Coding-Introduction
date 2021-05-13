@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <link href="style.css" rel="stylesheet" type="text/css">
-    <title>First HTML Website Practice</title>
+    <title></title>
   </head>
   <body>
     <nav>
@@ -55,7 +55,7 @@
     </div>
     <div class="free-text">
       <form class="dropdown-list" action="index.html" method="post">
-        <label for="courses">Coding & Programming Courses and Certificates:</label>
+        <h3><label for="courses">Coding & Programming Courses and Certificates:</label></h3>
         <select class="courses" name="courses" id="codecademy-courses">
           <option value="HTML-into">Introduction to HTML</option>
           <option value="css-intro">Introduction to CSS</option>
@@ -65,9 +65,10 @@
         </select>
       </form>
     </div>
+    <br>
     <div class="free-text">
       <form class="dropdown-list" action="index.html" method="post">
-        <label for="next-courses">Next Steps in My Education:</label>
+        <h3><label for="next-courses">Next Steps in My Education:</label></h3>
         <select class="next-courses" name="next-courses" id="future-courses">
           <option value="Javascript">Javascript</option>
           <option value="Git">Git</option>
@@ -77,5 +78,6 @@
         </select>
       </form>
     </div>
+    <br>
   </body>
 </html>
