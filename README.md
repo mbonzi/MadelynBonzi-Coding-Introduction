@@ -57,18 +57,41 @@
     </div>
     <div class="free-text">
       <form class="dropdown-list" action="index.html" method="post">
-        <h3><label for="courses">Coding & Programming Courses and Certificates:</label></h3>
-        <select class="courses" name="courses" id="codecademy-courses">
-          <option value="HTML-into">Introduction to HTML</option>
-          <option value="css-intro">Introduction to CSS</option>
-          <option value="css-intermediate">Intermediate CSS</option>
-          <option value="css-advanced">Advanced CSS Grids</option>
-          <option value="ATOM">ATOM</option>
-        </select>
+       <details>
+        <strong><summary> Coding & Programming Courses and Certificates: </summary></strong>
+          <ul><li>Current Knowledge</li>
+            <li>Introduction to HTML</li>
+            <li>Introduction to CSS</li>
+            <li>Intermediate CSS </li>
+            <li>Advanced CSS Grids</li>
+          </ul>
+       </details>
+       <details>
+         <strong><summary> In Progress Coding and Programming Tools: </summary></strong>
+           <ul><li>In Progress</li>
+              <li>Intermediate HTML</li>
+              <li>Intermediate to Advanced CSS</li>
+              <li>ATOM</li>
+              <li>GitHub</li>
+          </ul>
+        </details>
+        <details>
+         <strong><summary> Future Coding and Programming Tools/Certificates: </summary></strong>
+           <ul><li>Up Next</li>
+              <li>Advanced HTML</li>
+              <li>Advanced CSS</li>
+              <li>Javascript</li>
+              <li>GitHub</li>
+              <li>Git</li>
+              <li>Python</li>
+              <li>React</li>
+           </ul>
+       </details>
       </form>
     </div>
     <br>
-    <div class="free-text">
+    <!-- DROPDOWN LIST NOT WORKING
+<div class="free-text">
       <form class="dropdown-list" action="index.html" method="post">
         <h3><label for="next-courses">Next Steps in My Education:</label></h3>
         <select class="next-courses" name="next-courses" id="future-courses">
@@ -80,11 +103,8 @@
         </select>
       </form>
     </div>
+--> 
     <br>
     <details>
-<summary>Example</summary>
-<ul><li>This dropdown contains</li>
-<li>a list!</li></ul>
-</details>
   </body>
 </html>
