@@ -26,7 +26,6 @@
     <div class="free-text">
       <p>This is the beginning of my coding career. I hope you enjoy seeing my initial progress and where I go from here!</p>
     </div>
-
     <div class="heading-two">
       <h2 id="About_Me">About Me</h2>
     </div>
@@ -51,7 +50,6 @@
       </p>
       <br>
     </div>
-
     <div class="heading-two">
       <h2 id="Curriculum">Web Developer Curriculum and Tools</h2>
     </div>
@@ -60,7 +58,7 @@
         <label for="courses">Coding & Programming Courses and Certificates:</label>
         <select class="courses" name="courses" id="codecademy-courses">
           <option value="HTML-into">Introduction to HTML</option>
-          <option value="css-into">Introduction to CSS</option>
+          <option value="css-intro">Introduction to CSS</option>
           <option value="css-intermediate">Intermediate CSS</option>
           <option value="css-advanced">Advanced CSS Grids</option>
           <option value="ATOM">ATOM</option>
