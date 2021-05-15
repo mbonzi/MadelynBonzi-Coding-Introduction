@@ -3,9 +3,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <link href="https://github.com/mbonzi/05.12.21-Sample-Coding.git/style.css" rel="stylesheet" type="text/css">
+     <meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
+     <meta http-equiv=“X-UA-Compatible” content=“ie=edge”>
+    <link href="style.css" rel="stylesheet" type="text/css">
   </head>
-  <body>
+  <body>     
     <nav>
     <div class="main-heading">
       <h1 id="top">Madelyn Bonzi's First Practice for HTML and CSS Coding</h1>
