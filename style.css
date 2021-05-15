@@ -1,8 +1,8 @@
 /* style.css */
 * {
-  padding: 0;
-  margin: 0;
-  font-size: 20px;
+  padding: 5px;
+  margin: 10px;
+  font-size: 22px;
   background-color: rgba(230, 196, 232, 0.5);
   text-align: left;
   color: black;
@@ -14,11 +14,17 @@ nav {
   font-size: 2rem;
 }
 
+h1{
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+}
+
 .main-heading {
   text-align: center;
   background-color: rgba(194, 132, 207, 0.5);
   color: rgba(0, 10, 70, 1);
-  letter-spacing: 0.3em;
+  letter-spacing: 0rem;
   font-family: Georgia, serif;
   font-weight: 700;
   font-style: italic;
@@ -39,6 +45,7 @@ nav {
   color: black;
   font-size: 1rem;
   background-color: rgba(238, 195, 253, 0.5)
+  margin: 10px;
 }
 
 .rel-path-head {
