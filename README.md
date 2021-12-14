@@ -63,12 +63,12 @@
         <strong><summary> Coding & Programming Courses and Certificates: </summary></strong>
           <ul>
             <li>Introduction to HTML</li>
-            <li>Introduction to CSS</li>
-            <li>Intermediate CSS </li>
             <li>Introduction to JavaScript</li>
             <li>Intermediate JavaScript</li>
             <li>Intermediate React</li>
-            <li>Intermediate Bootstrapt</li>
+            <li>Intermediate Bootstrap</li>
+            <li>Introduction to CSS</li>
+            <li>Intermediate CSS </li>
             <li>Advanced CSS Grids</li>
           </ul>
        </details>
