@@ -35,7 +35,7 @@
         If you were anything like me, when you graduated high school there were so many career fields that interested you that you could not pick just one.
         Not knowing exactly what I wanted to do, I enrolled in a community college in my local town while working two jobs simultaneously.
         I enrolled in courses for a math major, psychology major, fire, and EMT.
-        If I didn't know what I wanted when I started undergraduate schooling, let me tell you that I was only getting for confused with every additional course that I enrolled in.
+        If I didn't know what I wanted when I started undergraduate schooling, let me tell you that I was only getting more confused with every additional course that I enrolled in.
         By the time that I graduated, I had received two promotions, one at each job, and 4 Associates Degrees.
         I then transferred to a community college in Central California where I obtained one more degree within the next year, an AA-T in Kinesiology.
         This degree allowed my to transfer to California Polytechnic University in San Luis Obispo, California.
@@ -65,16 +65,22 @@
             <li>Introduction to HTML</li>
             <li>Introduction to CSS</li>
             <li>Intermediate CSS </li>
+            <li>Introduction to JavaScript</li>
+            <li>Intermediate JavaScript</li>
+            <li>Intermediate React</li>
+            <li>Intermediate Bootstrapt</li>
             <li>Advanced CSS Grids</li>
           </ul>
        </details>
        <details>
          <strong><summary> In Progress Coding and Programming Tools: </summary></strong>
            <ul>
-              <li>Intermediate HTML</li>
+              <li>Intermediate to Advanced HTML</li>
               <li>Intermediate to Advanced CSS</li>
+              <li>Intermediate to Advanced JavaScript</li>
               <li>ATOM</li>
               <li>GitHub</li>
+              <li>Git</li>
           </ul>
         </details>
         <details>
@@ -82,11 +88,11 @@
            <ul>
               <li>Advanced HTML</li>
               <li>Advanced CSS</li>
-              <li>Javascript</li>
-              <li>GitHub</li>
-              <li>Git</li>
+              <li>Advanced Javascript</li>
               <li>Python</li>
-              <li>React</li>
+              <li>jQuery</li>
+              <li>C++</li>
+              <li>Regular expressions/regex</li>
            </ul>
        </details>
       </form>
